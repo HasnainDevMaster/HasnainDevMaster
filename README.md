@@ -16,7 +16,7 @@
 
 <br/>
 
-I am a passionate frontend developer with a strong foundation in **TypeScript**. I actively share my projects on **LinkedIn**, showcasing my commitment to continuous learning and professional growth. I am always eager to explore new technologies and improve my skills. I enjoy creating engaging content that not only demonstrates my technical abilities but also helps others in their learning journey.</div>  
+I am a passionate web developer with a strong foundation in **TypeScript**. I actively share my projects on **LinkedIn**, showcasing my commitment to continuous learning and professional growth. I am always eager to explore new technologies and improve my skills. I enjoy creating engaging content that not only demonstrates my technical abilities but also helps others in their learning journey.</div>  
   
 
 - 🔭 I’m currently working on **100 Days Of Coding Challenge!**  
