@@ -5,7 +5,7 @@
 
 # <div align="center">Hi 👋, I'm Syed Hasnain Ali Shah
 
- **<div align="center">AI Enthusiast | Mastering Typescript | Learning HTML & CSS**
+ **<div align="center">🎓 Aspiring AI-Powered Python Developer | 💡 Lifelong Learner | 🧪 Experimenting with Streamlit, Python, and Modern Tech**
 
  <br/>  
 
@@ -16,16 +16,30 @@
 
 <br/>
 
-I am a passionate web developer with a strong foundation in **TypeScript**. I actively share my projects on **LinkedIn**, showcasing my commitment to continuous learning and professional growth. I am always eager to explore new technologies and improve my skills. I enjoy creating engaging content that not only demonstrates my technical abilities but also helps others in their learning journey.</div>  
-  
+I'm actively building and deploying Python-based apps, especially with Streamlit for real-world impact. My journey is centered around mastering modern Python, exploring AI-assisted development, and sharing every step of my progress through hands-on projects.
 
-- 🔭 I’m currently working on **100 Days Of Coding Challenge!**  
-  
+🛠️ What I’m Working On:
 
-- 🌱 I’m currently learning **HTML & CSS**  
-  
+🚀 Deploying interactive apps using Streamlit
 
-- ⚡ Fun fact: Coding Passion: “I code not just for work, but for fun! Around 70% of developers, including me, code as a hobby.”  
+🔐 Building secure and user-friendly Python tools
+
+📚 Following a 100-Days-of-Code journey to deepen my expertise
+
+
+💡 What You’ll Find Here:
+
+✨ Projects reflecting real-world use cases in data, security, productivity, and more
+
+📌 Learning-by-building approach: everything here is part of my growth
+
+🌐 Live apps & interactive tools powered by Python and AI  
+
+
+
+
+“Learning in public, growing through code.”
+Let’s build something great together. 🚀
   
 
 <br/>  
