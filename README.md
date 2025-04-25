@@ -18,23 +18,6 @@
 
 I'm actively building and deploying Python-based apps, especially with Streamlit for real-world impact. My journey is centered around mastering modern Python, exploring AI-assisted development, and sharing every step of my progress through hands-on projects.
 
-🛠️ What I’m Working On:
-
-🚀 Deploying interactive apps using Streamlit
-
-🔐 Building secure and user-friendly Python tools
-
-📚 Following a 100-Days-of-Code journey to deepen my expertise
-
-
-💡 What You’ll Find Here:
-
-✨ Projects reflecting real-world use cases in data, security, productivity, and more
-
-📌 Learning-by-building approach: everything here is part of my growth
-
-🌐 Live apps & interactive tools powered by Python and AI  
-
 
 
 
