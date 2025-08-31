@@ -1,4 +1,4 @@
-## Hey 👋, I'm Syed Hasnain Ali Shah!  
+## 👨‍💻 Hey there, I'm **Syed Hasnain Ali Shah**! 🚀 
   
 
 <a href="https://github.com/HasnainDevMaster" target="_blank">
@@ -36,7 +36,7 @@ Feel free to explore my repositories to see my work in action, and let's connect
 <br/>  
 
 
-## Languages and Tools  
+## 🛠️ Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -53,7 +53,7 @@ Feel free to explore my repositories to see my work in action, and let's connect
 <br/>  
 
 
-## Github Stats  
+## 📊 GitHub Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=HasnainDevMaster&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -70,7 +70,8 @@ Feel free to explore my repositories to see my work in action, and let's connect
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=HasnainDevMaster&&style=flat-square)  
+👀 Profile views:  
+![Profile views](https://komarev.com/ghpvc/?username=HasnainDevMaster&style=flat-square)    
   
 
 <br/>  
@@ -78,5 +79,7 @@ Feel free to explore my repositories to see my work in action, and let's connect
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+---
+💬 Let's build something amazing together!  
+📩 Reach me on [LinkedIn](https://linkedin.com/in/syed-hasnain-ali-shah-a80428252/)
